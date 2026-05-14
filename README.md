@@ -21,7 +21,7 @@
 
 ### 🔭 近期核心工程实践
 - 🚀 **企业级图谱自动化流水线 (Data Pipeline)**：基于 **FastAPI + LangGraph** 构建学科知识图谱抽取引擎。在真实业务场景中，实现了带有 Reflexion（自我纠错）机制的 DAG 状态机，并利用 PostgreSQL 局部唯一索引与事务彻底解决了 `UPSERT` 幂等性与原子性问题。
-- 🌉 **跨语言异构架构基建 (LuminaCampus-AI)**：主导设计 Java (Spring Boot 3 + 小傅哥 DDD) 作为控制中枢，Python (FastAPI) 作为执行引擎的跨语言系统。成功打通基于 **MDC (Mapped Diagnostic Context)** 的跨越 JVM 与 Python 运行时的 **TraceID 全链路追踪**。
+- 🌉 **跨语言异构架构基建 (LuminaCampus-AI)**：主导设计 Java (Spring Boot 3 +  DDD) 作为控制中枢，Python (FastAPI) 作为执行引擎的跨语言系统。成功打通基于 **MDC (Mapped Diagnostic Context)** 的跨越 JVM 与 Python 运行时的 **TraceID 全链路追踪**。
 - ⚔️ **字节跳动 AI 全栈挑战赛实战**：目前正带队研发 Multi-Agent 协作与博弈系统，重点攻克大模型幻觉兜底、分布式会话状态管理及复杂任务流转调度。
 
 ### 🛠️ 技术栈与武器库
