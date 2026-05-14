@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, 我是  硝酸铜 kbob3687 👋</h1>
-<h3 align="center">AI 后端架构师 | LangGraph & Spring AI 探索者 | 开源贡献者</h3>
+<h3 align="center">AI 后端工程师 | LangGraph & Spring AI 探索者 | 开源贡献者</h3>
 
 <p align="center">
   软件工程专业大二学生。致力于打破<b>“大模型应用（LLM）”</b>与<b>“企业级后端工程”</b>之间的壁垒。<br>
