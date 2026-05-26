@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=2F855A&width=600&height=50&lines=Hi+there%2C+%E6%88%91%E6%98%AF+%E7%A1%9D%E9%85%B8%E9%93%9C+kbob3687+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 <h3 align="center">AI 后端工程师 | LangGraph & Spring AI 探索者 | 开源贡献者</h3>
-
 <p align="center">
   软件工程专业大二学生。致力于打破<b>“大模型应用（LLM）”</b>与<b>“企业级后端工程”</b>之间的壁垒。<br>
   专注于构建高可用、具备全链路可观测性、且逻辑严密的复杂 AI Agent 流水线。
