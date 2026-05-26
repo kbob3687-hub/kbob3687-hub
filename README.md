@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi there, 我是  硝酸铜 kbob3687 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=2F855A&width=600&height=50&lines=Hi+there%2C+%E6%88%91%E6%98%AF+%E7%A1%9D%E9%85%B8%E9%93%9C+kbob3687+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 <h3 align="center">AI 后端工程师 | LangGraph & Spring AI 探索者 | 开源贡献者</h3>
 
 <p align="center">
